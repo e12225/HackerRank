@@ -1,0 +1,16 @@
+
+`squid:S2583j"DChange this condition so that it does not always evaluate to "false"(ÂûÇÿÿÿÿÿ
+xsquid:S1488{"\Immediately return this expression instead of assigning it to the temporary variable "date".(µ¢ÙÁúÿÿÿÿ
+rsquid:S1488~"\Immediately return this expression instead of assigning it to the temporary variable "date".(ö¡ü,
+tsquid:S1488"\Immediately return this expression instead of assigning it to the temporary variable "date".(®¥¥ú
+nsquid:S00117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ á¬úÿÿÿÿ
+isquid:S00117I"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øï´û
+T
+squid:S1061"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+isquid:S00117b"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïıòë
+Asquid:S00108Z")Either remove or fill this block of code.(å¥‡
+isquid:S00117a"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÊÕÒ
+ssquid:S1488x"\Immediately return this expression instead of assigning it to the temporary variable "date".(ŠŞ‹¸
+isquid:S00117H"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÏ¬Á
+hsquid:S37764"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(·´¦
+nsquid:S00117G"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢Â™Öûÿÿÿÿ

@@ -1,0 +1,8 @@
+
+Hsquid:S1153U"1Directly append the argument of String.valueOf().(∑åå
+Msquid:S1153I"1Directly append the argument of String.valueOf().(Î©ÇÆ˙ˇˇˇˇ
+Hsquid:S1153O"1Directly append the argument of String.valueOf().(À‹◊À
+T
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Æ˝·Î˚ˇˇˇˇ
+zsquid:S1488Z"dImmediately return this expression instead of assigning it to the temporary variable "militaryTime".(äıí'
+Osquid:S4973>"9Use the "equals" method if value comparison was intended.(÷“ß

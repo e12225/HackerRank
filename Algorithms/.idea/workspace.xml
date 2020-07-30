@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d60fb07c-a91c-43f8-ba1c-b0b47db8c319" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Hack01/One/src/com/company/One.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack01/One/src/com/company/One.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack02/Two/src/com/company/Two.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack02/Two/src/com/company/Two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack03/Three/src/com/company/Three.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack03/Three/src/com/company/Three.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack04/Four/src/com/company/Four.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack04/Four/src/com/company/Four.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack05/Five/src/com/company/Five.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack05/Five/src/com/company/Five.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack06/Six/src/com/company/Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack06/Six/src/com/company/Six.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack07/Seven/src/com/company/Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack07/Seven/src/com/company/Seven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hack08/Eight/src/com/company/Eight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hack08/Eight/src/com/company/Eight.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-467036185">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="40" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="40" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Hack20/Twenty/src/com/company/Twenty.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Hack02/Two/src/com/company/Two.java" />
+        <option value="$PROJECT_DIR$/Hack03/Three/src/com/company/Three.java" />
+        <option value="$PROJECT_DIR$/Hack04/Four/src/com/company/Four.java" />
+        <option value="$PROJECT_DIR$/Hack05/Five/src/com/company/Five.java" />
+        <option value="$PROJECT_DIR$/Hack06/Six/src/com/company/Six.java" />
+        <option value="$PROJECT_DIR$/Hack07/Seven/src/com/company/Seven.java" />
+        <option value="$PROJECT_DIR$/Hack08/Eight/src/com/company/Eight.java" />
+        <option value="$PROJECT_DIR$/Hack09/Nine/src/com/company/Nine.java" />
+        <option value="$PROJECT_DIR$/Hack10/Ten/src/com/company/Ten.java" />
+        <option value="$PROJECT_DIR$/Hack11/Eleven/src/com/company/Eleven.java" />
+        <option value="$PROJECT_DIR$/Hack12/Twelve/src/com/company/Twelve.java" />
+        <option value="$PROJECT_DIR$/Hack13/Thirteen/src/com/company/Thirteen.java" />
+        <option value="$PROJECT_DIR$/Hack14/Forteen/src/com/company/Fourteen.java" />
+        <option value="$PROJECT_DIR$/Hack15/Fifteen/src/com/company/Fifteen.java" />
+        <option value="$PROJECT_DIR$/Hack16/Sixteen/src/com/company/Sixteen.java" />
+        <option value="$PROJECT_DIR$/Hack17/Seventeen/src/com/company/Seventeen.java" />
+        <option value="$PROJECT_DIR$/Hack18/Eighteen/src/com/company/Eighteen.java" />
+        <option value="$PROJECT_DIR$/Hack19/Nineteen/src/com/company/Nineteen.java" />
+        <option value="$PROJECT_DIR$/Hack20/Twenty/src/com/company/Twenty.java" />
+        <option value="$PROJECT_DIR$/Hack21/TwentyOne/src/com/company/TwentyOne.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="twenty&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack20/Twenty/src/com/company/Twenty.java&#10;Twent&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack20/Twenty/src/com/company/Twenty.java&#10;Nin&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack19/Nineteen/src/com/company/Nineteen.java&#10;Eight&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack18/Eighteen/src/com/company/Eighteen.java&#10;Seventeen&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack17/Seventeen/src/com/company/Seventeen.java&#10;Sixteen&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack16/Sixteen/src/com/company/Sixteen.java&#10;Fif&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack15/Fifteen/src/com/company/Fifteen.java&#10;Thirt&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack13/Thirteen/src/com/company/Thirteen.java&#10;Twe&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack12/Twelve/src/com/company/Twelve.java&#10;Elev&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack11/Eleven/src/com/company/Eleven.java&#10;Ten&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack10/Ten/src/com/company/Ten.java&#10;Nine.java&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack09/Nine/src/com/company/Nine.java&#10;Seve&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack07/Seven/src/com/company/Seven.java&#10;Six.java&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack06/Six/src/com/company/Six.java&#10;Five.&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack05/Five/src/com/company/Five.java&#10;Four.java&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack04/Four/src/com/company/Four.java&#10;Three.java&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack03/Three/src/com/company/Three.java&#10;Two.java&#9;FILE&#9;file:///Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Hack02/Two/src/com/company/Two.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d60fb07c-a91c-43f8-ba1c-b0b47db8c319" name="Default Changelist" comment="" />
+      <created>1596068470191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596068470191</updated>
+      <workItem from="1596068471765" duration="1019000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1019000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="DB Browser" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17043619" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="DB Execution Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="SonarLint" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Hack01/One/src/com/company/One.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack02/Two/src/com/company/Two.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack03/Three/src/com/company/Three.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#3272#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack04/Four/src/com/company/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack05/Five/src/com/company/Five.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack06/Six/src/com/company/Six.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="28" column="2" lean-forward="true" selection-start-line="28" selection-start-column="2" selection-end-line="28" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack07/Seven/src/com/company/Seven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack08/Eight/src/com/company/Eight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack09/Nine/src/com/company/Nine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack10/Ten/src/com/company/Ten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack11/Eleven/src/com/company/Eleven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack12/Twelve/src/com/company/Twelve.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack13/Thirteen/src/com/company/Thirteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="e#0#3257#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack14/Forteen/src/com/company/Fourteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack15/Fifteen/src/com/company/Fifteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="55" lean-forward="true" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack16/Sixteen/src/com/company/Sixteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="2" lean-forward="true" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack17/Seventeen/src/com/company/Seventeen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack18/Eighteen/src/com/company/Eighteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack19/Nineteen/src/com/company/Nineteen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="44" column="44" lean-forward="true" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#4967#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack21/TwentyOne/src/com/company/TwentyOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Hack20/Twenty/src/com/company/Twenty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="12" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2753623" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
