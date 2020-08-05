@@ -1,4 +1,6 @@
-//Complete the function solveMeFirst to compute the sum of two integers.
+//https://www.hackerrank.com/challenges/solve-me-first/problem
+
+// Complete the function solveMeFirst to compute the sum of two integers.
 //
 //        Function prototype:
 //

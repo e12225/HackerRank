@@ -1,4 +1,6 @@
-//Consider a staircase of size :
+//https://www.hackerrank.com/challenges/staircase/problem
+//
+// Consider a staircase of size :
 //
 //        #
 //        ##

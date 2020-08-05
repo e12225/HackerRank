@@ -1,4 +1,6 @@
-//You are given an array of  integers, , and a positive integer, . Find and print the number of  pairs where  and  +  is divisible by .
+//https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+//
+// You are given an array of  integers, , and a positive integer, . Find and print the number of  pairs where  and  +  is divisible by .
 //
 //        For example,  and . Our three pairs meeting the criteria are  and .
 //

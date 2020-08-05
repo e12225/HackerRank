@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/electronics-shop/submissions/code/66547269
+
 package com.company;
 
 import java.util.Scanner;

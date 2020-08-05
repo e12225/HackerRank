@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/magic-square-forming/submissions/code/70541054
+
 package com.company;
 
 import java.util.*;
