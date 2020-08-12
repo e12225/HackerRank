@@ -1,0 +1,10 @@
+
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìçôƒ8·±¼‘¾.
+Gsquid:S2129"$Remove this "BigInteger" constructor(şòë—úÿÿÿÿ8·±¼‘¾.
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(ËÍÕ”úÿÿÿÿ8·±¼‘¾.
+psquid:S00117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü8·±¼‘¾.
+Bsquid:S2129"$Remove this "BigInteger" constructor(ş“˜8·±¼‘¾.
+psquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ş„¶8·±¼‘¾.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(×¿ç¡ùÿÿÿÿ8·±¼‘¾.

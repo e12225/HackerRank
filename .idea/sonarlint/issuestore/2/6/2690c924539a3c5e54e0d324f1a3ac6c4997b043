@@ -1,0 +1,17 @@
+
+psquid:S37765"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(£šüÂ8€îù”¾.
+bsquid:S18547"?Remove this useless assignment to local variable "currentGrid".(¢Å¿±ûÿÿÿÿ8€îù”¾.
+Rsquid:S11726"/Remove this unused method parameter "longLoop".(æáäàùÿÿÿÿ8€îù”¾.
+psquid:S00117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒã©Ú8€îù”¾.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ùü°8æ²‚•¾.
+V
+squid:S106."9Replace this use of System.out or System.err by a logger.(ûª¤8ıµü”¾.
+¨squid:S1598"This file "Main.java" should be located in "com/hack" directory, not in "/Users/subhanimunasunghe/newHackerRank/HackerRank/Algorithms/Special2".(¤¡Àö
+usquid:S00117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ˆÔùúÿÿÿÿ8€îù”¾.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(¯ç¬¢8¦æÿ”¾.
+[
+squid:S1061"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıµü”¾.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÃÑñşÿÿÿÿ8·õ•¾.
