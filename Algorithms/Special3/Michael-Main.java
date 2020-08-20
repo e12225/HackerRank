@@ -1,7 +1,7 @@
 
 package com.hack;
 
-import basic.ShortScratch;
+import basic.
 
 import java.util.ArrayList;
 import java.util.List;
@@ -35,10 +35,10 @@ public class Main {
 
         AtomicInteger max = new AtomicInteger(0);
         loop(rows, columns, (i, j) -> {
-            ShortScratch.Plus firstPlus = new ShortScratch.Plus(i, j, 0);
+            Plus firstPlus = new Plus(i, j, 0);
             while (firstPlus.isValid()) {
                 loop(rows, columns, (x, y) -> {
-                    ShortScratch.Plus secondPlus = new ShortScratch.Plus(x, y, 0);
+                    Plus secondPlus = new Plus(x, y, 0);
                     while (secondPlus.isValid()) {
                         if (!firstPlus.overlapsWith(secondPlus)) {
                             int product = (firstPlus.size*4+1)*(secondPlus.size*4+1);
@@ -82,7 +82,7 @@ public class Main {
             return true;
         }
 
-        public boolean overlapsWith(ShortScratch.Plus other) {
+        public boolean overlapsWith(Plus other) {
             int rd = Math.abs(other.row - row);
             int cd = Math.abs(other.column - column);
             int sum = other.size + size;
