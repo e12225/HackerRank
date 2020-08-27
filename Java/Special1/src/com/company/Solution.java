@@ -26,10 +26,8 @@ class MyMath {
 //                because, neither 0 nor 1 is a prime number
                 return false;
             }
-//            taking the square root of the number
-            int squareRoot = (int) Math.sqrt(number);
 
-            for (int i = 2; i <= squareRoot; i++) {
+            for (int i = 2; i < number; i++) {
                 if (number % i == 0) {
 //                    that means there is another factor of the given number (m), apart from itself
                     return false;
