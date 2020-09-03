@@ -84,7 +84,9 @@ abstract class TreeVis
 }
 
 class SumInLeavesVisitor extends TreeVis {
-    int result=0;
+
+    int result = 0;
+
     public int getResult() {
         return result;
     }
@@ -94,54 +96,64 @@ class SumInLeavesVisitor extends TreeVis {
     }
 
     public void visitLeaf(TreeLeaf leaf) {
-        result+=leaf.getValue();
+        result += leaf.getValue();
     }
 }
 
 class ProductOfRedNodesVisitor extends TreeVis {
 
     private long result = 1;
-    private final int M = 1000000007;
+    private final int Modulo = 1000000007;
 
     public int getResult() {
         return (int) result;
     }
 
+    //    in both the cases of nodes & leaves, it will only consider the nodes or leaves of RED color only
     public void visitNode(TreeNode node) {
+
         if (node.getColor() == Color.RED) {
-            result = (result * node.getValue()) % M;
+            result = (result * node.getValue()) % Modulo;
         }
     }
 
     public void visitLeaf(TreeLeaf leaf) {
+
         if (leaf.getColor() == Color.RED) {
-            result = (result * leaf.getValue()) % M;
+            result = (result * leaf.getValue()) % Modulo;
         }
     }
 }
 
 class FancyVisitor extends TreeVis {
-    private int nonLeafNodesEvenDepth = 0;
+
+    private int nonLeafNodesAtEvenDepth = 0;
 
     private int greenLeafNodes = 0;
 
     public int getResult() {
-        return Math.abs(nonLeafNodesEvenDepth - greenLeafNodes);
+        return Math.abs(nonLeafNodesAtEvenDepth - greenLeafNodes); //taking the absolute difference
     }
 
     public void visitNode(TreeNode node) {
+
         if(node.getDepth() %2 == 0){
-            nonLeafNodesEvenDepth+=node.getValue();
+            //non-leaf node identified
+            nonLeafNodesAtEvenDepth += node.getValue();
         }
+
     }
     public void visitLeaf(TreeLeaf leaf) {
+
         if(leaf.getColor() == Color.GREEN) {
-            greenLeafNodes+=leaf.getValue();
+            //green leaf identified
+            greenLeafNodes += leaf.getValue();
         }
+
     }
 }
 
-public class Eight {
+public class Solution {
 
     private static int inputValues[];
     private static Color colors[];
