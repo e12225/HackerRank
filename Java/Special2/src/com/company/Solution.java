@@ -2,24 +2,15 @@
 
 package com.company;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.StringTokenizer;
-
-interface PerformOperation {
-    boolean check(int a);
-}
+import java.util.ArrayList;
+import java.io.*;
+import java.util.*;
+import java.text.*;
+import java.math.*;
+import java.util.regex.*;
 
 import java.util.ArrayList;
-        import java.io.*;
-        import java.util.*;
-        import java.text.*;
-        import java.math.*;
-        import java.util.regex.*;
-
-        import java.util.ArrayList;
-        import java.util.Scanner;
+import java.util.Scanner;
 
 enum Color {
     RED, GREEN
@@ -150,7 +141,7 @@ class FancyVisitor extends TreeVis {
     }
 }
 
-public class Solution {
+public class Eight {
 
     private static int inputValues[];
     private static Color colors[];
