@@ -14,9 +14,9 @@ The Node class is defined as follows:
 
     boolean ValidateBST(Node root,int min,int max){
 
-        if((root!=null)&&(root.left.data<root.data&&root.right.data>root.data)){
+        if((root != null) && (root.left.data < root.data && root.right.data > root.data)){
 //      condition satisfied
-        return ValidateBST(root.left,min,root.data-1)&&ValidateBST(root.right,root.data+1,max);
+        return ValidateBST(root.left,min,root.data-1) && ValidateBST(root.right,root.data+1,max);
 
         } else {
 
